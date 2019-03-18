@@ -34,4 +34,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Only when your changes will generate significant impact and could be
+    potentially dangerous to the integrity of the app (e.g. new exp feat)
